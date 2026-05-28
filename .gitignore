@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+.venv
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & Models (use Kaggle dataset links)
+*.csv
+*.zip
+*.h5
+*.hdf5
+*.pkl
+*.pt
+*.pth
+datasets/
+data/
+models/
+saved_models/
+
+# OS
+.DS_Store
+Thumbs.db
